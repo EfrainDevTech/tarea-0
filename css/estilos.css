@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+}
+img{
+    width: 600px;
+    height: 200px;
+}
